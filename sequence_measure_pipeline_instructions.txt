@@ -1,0 +1,26 @@
+Input: 
+
+Takes in sequences and associated measure (example: genotype_file.csv)
+
+Actions:
+
+Determine loci location on sequence by sequence conservation.
+
+Make a list of the unique alleles in those loci.
+
+Output:
+
+Creates regression that predicts the affect of alleles on associated measure.
+
+Creates figure of regression (example: genotype_file.csv)
+
+Creates table of which allele is located in which loci. (example: locus_allele_seq_key.csv)
+
+Creates table of which allele is in which sequence. (example: data_dict.csv)
+
+Creates figure of allele counts(example: ALLELE_COUNT.jpg)
+
+Creates figure of allele counts(example: allele_count.csv)
+ 
+
+
